@@ -69,9 +69,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is dedicated to the public domain under the CC0 1.0 Universal license. This means you can copy, modify, distribute, and perform the work, even for commercial purposes, without asking permission. The creator has waived all copyright and related rights worldwide to the fullest extent allowed by law.
+For more details, see the [LICENSE](LICENSE) file or visit the [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) page.
 
 ## Disclaimer
 
-This tool is for educational purposes only. Please respect copyright laws and YouTube's terms of service when downloading content.
+In no way are patent or trademark rights affected by CC0, and no warranties are made about the work. The creator disclaims liability for all uses of the work to the fullest extent permitted by applicable law. When using or citing the work, you should not imply endorsement by the author.
+
 
